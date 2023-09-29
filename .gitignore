@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Frontend/node_modules
+/Backend/GraphQL.API/.vs/GraphQL.API
+/Backend/GraphQL.API/bin/Debug/net7.0
+/Backend/GraphQL.API/obj
